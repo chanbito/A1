@@ -1,9 +1,3 @@
-package model;
-
-import java.lang.reflect.Constructor;
-
-import javax.sound.midi.Soundbank;
-
 public class produto {
     double preco;
     String codBarras;

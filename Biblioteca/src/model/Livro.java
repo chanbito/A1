@@ -1,5 +1,3 @@
-package model;
-
 public class Livro {
     private int ID;
     private String  Titulo;

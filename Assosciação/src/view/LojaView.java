@@ -1,8 +1,4 @@
-package view;
-
-import model.*;
-
-public class App {
+public class LojaView {
     public static void main(String[] args) 
     {
 

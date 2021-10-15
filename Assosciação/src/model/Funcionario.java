@@ -1,5 +1,3 @@
-package model;
-
 public class Funcionario {
     private String Nome;
     private String CPF;

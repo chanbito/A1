@@ -1,10 +1,3 @@
-package view;
-
-import jdk.incubator.foreign.CLinker;
-import model.cliente;
-import model.produto;
-import model.venda;
-
 public class App {
     public static void main(String[] args) {
             System.out.println("Agregação");

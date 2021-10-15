@@ -1,0 +1,42 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "A1_22905abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppBanco",
+            "request": "launch",
+            "mainClass": "AppBanco",
+            "projectName": "A1_22905abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch LojaView",
+            "request": "launch",
+            "mainClass": "LojaView",
+            "projectName": "A1_22905abd"
+        },
+        {
+            "type": "java",
+            "name": "Launch biblioteca",
+            "request": "launch",
+            "mainClass": "biblioteca",
+            "projectName": "A1_22905abd"
+        }
+    ]
+}

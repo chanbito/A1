@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "Composição/src/viewbanco",
+        "Composição/src/modelbanco",
+        "Biblioteca/src/view",
+        "Biblioteca/src/model",
+        "Assosciação/src/view",
+        "Assosciação/src/model",
+        "Agregação/src/view",
+        "Agregação/src/model"
+
+    ]
+}

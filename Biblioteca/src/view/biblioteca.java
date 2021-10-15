@@ -1,11 +1,7 @@
-package view;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import model.Livro;
-
-public class App {
+public class biblioteca {
 
     public static void main(String[] args) 
     {
@@ -40,7 +36,7 @@ public class App {
             System.out.println( "E por ultimo, em que ano ele foi lançado livro?");    
             var ano = Integer.parseInt(ler.nextLine());
 
-            System.out.println("/n Adicionando... /n");
+            System.out.println("Adicionando... ");
 
             var novolivro = new Livro(nome, autor, ano, LivrosDisponiveis.size() + 1);
 

@@ -1,5 +1,3 @@
-package model;
-
 public class cliente {
     String nome;
     double Dinheiro;
